@@ -27,4 +27,11 @@ def ejer4():
     print("Al cubo:" ,dubo)
     print("Cubica:" ,cubico)
 
+def ejer5():
+    num = input("Ingresar un numero:")
+    entero= int(num)
+    deci = float(num)
+    print ("Resto: " ,(entero %2))
+    print ("Decimal:", (entero / 3))
+
 ejer4()
