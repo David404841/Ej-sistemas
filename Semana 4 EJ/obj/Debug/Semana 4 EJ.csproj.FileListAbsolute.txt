@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Semana 5 EJ\Ej-sistemas\Semana 4 EJ\bin\Debug\Semana 4 EJ.exe.config
+C:\Users\UPN\Desktop\Semana 5 EJ\Ej-sistemas\Semana 4 EJ\bin\Debug\Semana 4 EJ.exe
+C:\Users\UPN\Desktop\Semana 5 EJ\Ej-sistemas\Semana 4 EJ\bin\Debug\Semana 4 EJ.pdb
+C:\Users\UPN\Desktop\Semana 5 EJ\Ej-sistemas\Semana 4 EJ\obj\Debug\Semana 4 EJ.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana 5 EJ\Ej-sistemas\Semana 4 EJ\obj\Debug\Semana 4 EJ.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana 5 EJ\Ej-sistemas\Semana 4 EJ\obj\Debug\Semana 4 EJ.exe
+C:\Users\UPN\Desktop\Semana 5 EJ\Ej-sistemas\Semana 4 EJ\obj\Debug\Semana 4 EJ.pdb
+C:\Users\UPN\Desktop\Semana 5 EJ\Ej-sistemas\Semana 4 EJ\obj\Debug\Semana 4 EJ.exe.config
